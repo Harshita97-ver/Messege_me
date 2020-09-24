@@ -22,7 +22,9 @@ gem 'jquery-rails'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use Active Model has_secure_password
-# gem 'bcrypt', '~> 3.1.7'
+ gem 'bcrypt', '~> 3.1.7'
+# gem 'emmett', '~> 0.0.3'
+ gem 'hirb'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
